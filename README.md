@@ -4,5 +4,5 @@ I write code - For the world of embedded systems, with experience of DCDC Conver
 
 Run my own Electronics Consultancy Brunning Innovations LTD.
 
-- 🔭 I’m currently working on HMI Solutions
+- 🔭 I’m currently working on Inverters for Electric Vehicles
 - 🌱 I’m currently learning PCB Layout and Enclosure Design
